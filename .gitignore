@@ -1,3 +1,4 @@
 data/
 *.pdf
 model_checkpoint.pth
+*.pth
