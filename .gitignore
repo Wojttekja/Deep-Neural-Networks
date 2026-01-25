@@ -3,5 +3,5 @@ data/
 model_checkpoint.pth
 *.pth
 runs/
-.vscode/
+.vscode
 *.zip
