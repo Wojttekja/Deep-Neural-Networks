@@ -4,3 +4,4 @@ model_checkpoint.pth
 runs/
 .vscode
 *.zip
+__pycache__/
